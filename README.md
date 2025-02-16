@@ -1,4 +1,4 @@
-```markdown:README.md
+
 # AI Proxy Agent Project
 
 This project implements an AI proxy agent system. Follow the instructions below to set up and run the project.
@@ -114,17 +114,3 @@ If you encounter any issues:
 3. Check your email configuration in tasksA.py
 4. Verify all dependencies are installed correctly
 
-## License
-
-[Add your license information here]
-```
-
-This README provides a clear, step-by-step guide for setting up and running your project. You may want to customize it further by:
-
-1. Adding specific version requirements
-2. Including more detailed troubleshooting steps
-3. Adding contribution guidelines
-4. Specifying the license
-5. Adding any project-specific configuration details
-
-Let me know if you'd like me to modify any section or add more details!
