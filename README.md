@@ -1,5 +1,3 @@
-I'll create a comprehensive README.md file that covers all these steps.
-
 ```markdown:README.md
 # AI Proxy Agent Project
 
